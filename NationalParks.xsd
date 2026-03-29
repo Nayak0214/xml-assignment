@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  </xs:schema>
  <xs:element name="NationalParks">
    <xs:complexType>
       <xs:sequence>
@@ -26,6 +25,6 @@
         </xs:complexType>
       </xs:element>
      </xs:sequence>
-   </xs:complexType>
- </xs:element>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>
