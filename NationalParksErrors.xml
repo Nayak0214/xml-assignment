@@ -2,13 +2,13 @@
 <NationalPark>
     
     <NationalPark Rating="4.9">
-        <Name>Grand Canyon</Name>
+        <Name>Grand Cayon</Name>
         <Phone>928-638-7496</Phone>
         <Phone>888-297-2757</Phone>
         <Phone>866-499-2574</Phone>
         <Address>
             <Number>8</Number>
-            <Street>S Entrance Road</Street>
+            <Street>S Etrance Road</Street>
             <City>Grand Canyon</City>
             <State>AZ</State>
             <Zip>86023</Zip>
@@ -16,7 +16,7 @@
     </NationalPark>
 
     <NationalPark Rating="4.8">
-        <Name>Yosemite</Name>
+        <Name>Yosemi</Name>
         <Address NearestAirport="Fresno">
             <Number>9039</Number>
             <Street>Village Drive</Street>
@@ -29,11 +29,11 @@
     <NationalPark>
         <Name>Yellowstone</Name>
         <Phone>307-344-7381</Phone>
-        <Phone>307-344-2012</Phone>
-        <Address NearestAirport="Jackson Hole">
+        <Phone>307-344-012</Phone>
+        <Address NearestAirport="Jack Hole">
             <Number>2</Number>
             <Street>Grand Loop Road</Street>
-            <City>Yellowstone</City>
+            <City>Yellows/City>
             <State>WY</State>
             <Zip>82190</Zip>
         
@@ -46,7 +46,7 @@
         <Address NearestAirport="Las Vegas">
             <Number>1</Number>
             <Street>Zion Park Blvd</Street>
-            <City>Springdale</City>
+            <City>Singdale</City>
             <State>UT</State>
             <Zip>84767</Zip>
         </Address>
@@ -56,7 +56,7 @@
         <Name>Acadia</Name>
         <Phone>207-288-3338</Phone>
         <Address NearestAirport="Bangor">
-            <Number>250</Number>
+            <Number>20</Number>
             <Street>Schoodic Peninsula Road</Street>
             <City>Bar Harbor</City>
             <State>ME</State>
@@ -64,7 +64,7 @@
         </Address>
     </NationalPark>
 
-    <NationalPark Rating="4.7">
+    <NationalPark Rating="0.7">
         <Name>Glacier</Name>
         <Phone>406-888-7800</Phone>
         <Address NearestAirport="Kalispell">
@@ -114,11 +114,11 @@
     </NationalPark>
 
     <NationalPark>
-        <Name>Joshua Tree</Name>
+        <Name>Joshua ree</Name>
         <Phone>760-367-5500</Phone>
         <Address NearestAirport="Palm Springs">
             <Number>74485</Number>
-            <Street>National Park Drive</Street>
+            <Street>Natinal Park Drive</Street>
             <City>Twentynine Palms</City>
             <State>CA</State>
             <Zip>92277</Zip>
@@ -126,11 +126,11 @@
     </NationalPark>
 
     <NationalPark Rating="4.8">
-        <Name>Olympic</Name>
+        <Name>Olymic</Name>
         <Phone>360-565-3130</Phone>
         <Address NearestAirport="Seattle">
             <Number>3002</Number>
-            <Street>Mount Angeles Road</Street>
+            <Street>Mout Angeles Road</Street>
             <City>Port Angeles</City>
             <State>WA</State>
             <Zip>98362</Zip>
